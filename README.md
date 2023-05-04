@@ -11,10 +11,6 @@
 
 ### Steps to use: 
 
-- Download or clone the repositor
-`
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-`
 
 - Go to the directory
 - Run the index.html file
@@ -22,6 +18,5 @@ git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
 
 ## Screenshot 
 
-![rps game](https://user-images.githubusercontent.com/72425181/126103787-ef8f5c8e-cdd6-4a13-8d37-7a7eb9e9a283.png)
 
 
